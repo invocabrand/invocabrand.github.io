@@ -1,0 +1,2432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"lin",
+				"link-hover-color"
+			],
+			[
+				"flex",
+				"flex-shrink\tproperty"
+			],
+			[
+				"blac",
+				"black-color"
+			],
+			[
+				"ib-na",
+				"ib-navlogo"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"nav-parent",
+				"nav-parent--carrot"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"broder",
+				"border-radius"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"hei\theight"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"grid-",
+				"grid-gap"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"d",
+				"dense\tgrid-auto-flow"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bot",
+				"bottom\tproperty"
+			],
+			[
+				"ro",
+				"row\tflex-direction"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"vi",
+				"visibility\tproperty"
+			],
+			[
+				"tr",
+				"translate3d()\ttransform"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"color\tless misc"
+			],
+			[
+				"Sales",
+				"Salesforce"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"ab",
+				"absolute\tposition"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"te",
+				"target\tAttr"
+			],
+			[
+				"border-bo",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-bot",
+				"border-bottom-left-radius"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"mo",
+				"modal-body"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"Adobe",
+				"AdobeForm"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"obj",
+				"object-position"
+			],
+			[
+				"St",
+				"Store"
+			],
+			[
+				"affi",
+				"affiliate_marketing"
+			],
+			[
+				"healthcare",
+				"healthcare_services"
+			],
+			[
+				"fin",
+				"financial_services"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"cust",
+				"customer_awards"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"dish",
+				"dish_video"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"team",
+				"team_testimonials"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"btn",
+				"btn-large"
+			],
+			[
+				"rot",
+				"rotate()"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"transa",
+				"translateY()"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"media",
+				"media-resources"
+			],
+			[
+				"transla",
+				"translateX()"
+			],
+			[
+				"bnt",
+				"btn-large"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"en",
+				"enhance"
+			],
+			[
+				"upse",
+				"upsell_opp"
+			],
+			[
+				"hot",
+				"hot_prospect"
+			],
+			[
+				"converted",
+				"converted_sale"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"hero_",
+				"hero__container"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"cur",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"insta",
+				"instagram-pink"
+			],
+			[
+				"facebook",
+				"facebook-blue"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"mw",
+				"mwoodward__bio"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"hero",
+				"heros"
+			],
+			[
+				"trig",
+				"triggerElement"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"of",
+				"offset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "@import 'variables', 'avenir';\n\nbody {\n  font-family: Avenir-Book, Helvetica, sans-serif;\n  color: $primary-black;\n  font-size: 1em;\n  line-height: 1.4;\n}",
+			"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/IncocaAdmin.github.io/scss/html {.scss",
+			"file_size": 154,
+			"file_write_time": 133289153250901343,
+			"settings":
+			{
+				"buffer_size": 154,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "html {"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "/css"
+					},
+					"BQAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOAAAAAAAAABEAAAAvcGF0aC9vZi90aGUvZmlsZQ4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "/av"
+					},
+					"AwAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "eniur"
+					},
+					"BQAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					2,
+					"left_delete",
+					null,
+					"AgAAABgAAAAAAAAAGAAAAAAAAAABAAAAchcAAAAAAAAAFwAAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "r.css"
+					},
+					"BQAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"paste",
+					null,
+					"AQAAAB4AAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgAAAAAAAAAKAAAAAAAAAAKAAAAZm91bmRhdGlvbg",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					5,
+					"left_delete",
+					null,
+					"BQAAACwAAAAAAAAALAAAAAAAAAABAAAAZSsAAAAAAAAAKwAAAAAAAAABAAAAZCoAAAAAAAAAKgAAAAAAAAABAAAAbykAAAAAAAAAKQAAAAAAAAABAAAAYygAAAAAAAAAKAAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "var"
+					},
+					"AwAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "iables"
+					},
+					"BgAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"left_delete",
+					null,
+					"AQAAADIAAAAAAAAAMgAAAAAAAAAUAAAALCAnZm91bmRhdGlvbi9saXN0cyc",
+					"AQAAAAAAAAABAAAARgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"left_delete",
+					null,
+					"AQAAACcAAAAAAAAAJwAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"left_delete",
+					null,
+					"AQAAADEAAAAAAAAAMQAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB0AAAAAAAAAHQAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"left_delete",
+					null,
+					"AQAAADEAAAAAAAAAMQAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"left_delete",
+					null,
+					"AQAAACYAAAAAAAAAJgAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAACYAAAAAAAAAJwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"left_delete",
+					null,
+					"AQAAADAAAAAAAAAAMAAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAADAAAAAAAAAAMQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"cut",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAdAAAAQGltcG9ydCB1cmwgIi9jc3MvYXZlbmlyLmNzcyI",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					77,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAB0AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB4AAAAAAAAAHgAAAAAAAAABAAAAJx0AAAAAAAAAHQAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "("
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAgAAAAAAAAACAAAAAAAAAADAAAAdXJs",
+					"AQAAAAAAAAABAAAACAAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAgAAAAAAAAACAAAAAAAAAABAAAAIAcAAAAAAAAABwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": " urlk"
+					},
+					"BQAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAsAAAAAAAAACwAAAAAAAAABAAAAaw",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA0AAAAAAAAADQAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": "\\"
+					},
+					"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB0AAAAAAAAAHQAAAAAAAAABAAAAXBwAAAAAAAAAHAAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"left_delete",
+					null,
+					"AQAAABwAAAAAAAAAHAAAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAwAAAAAAAAADAAAAAAAAAABAAAAKA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAwAAAAAAAAADAAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"left_delete",
+					null,
+					"AQAAABwAAAAAAAAAHAAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					2,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAeAAAAQGltcG9ydCB1cmwgIi9jc3MvYXZlbmlyLmNzcyI7",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					131,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": " ''"
+					},
+					"AwAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					134,
+					1,
+					"insert",
+					{
+						"characters": "avenir"
+					},
+					"BgAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					139,
+					2,
+					"left_delete",
+					null,
+					"AgAAADEAAAAAAAAAMQAAAAAAAAADAAAAMjIyMAAAAAAAAAAwAAAAAAAAAAEAAAAj",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					1,
+					"insert",
+					{
+						"characters": "$"
+					},
+					"AQAAADAAAAAAAAAAMQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					141,
+					1,
+					"insert",
+					{
+						"characters": "primary-"
+					},
+					"CAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": "green"
+					},
+					"BQAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					149,
+					1,
+					"insert",
+					{
+						"characters": "body"
+					},
+					"BQAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhAAAAAAAAAAQAAABodG1sIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"insert",
+					{
+						"characters": "black"
+					},
+					"BgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA6AAAAAAAAAAUAAABncmVlbjoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					159,
+					1,
+					"insert",
+					{
+						"characters": "\nfont-"
+					},
+					"BwAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"insert",
+					{
+						"characters": "size:"
+					},
+					"BQAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					5,
+					"left_delete",
+					null,
+					"BQAAADIAAAAAAAAAMgAAAAAAAAABAAAAOjEAAAAAAAAAMQAAAAAAAAABAAAAZTAAAAAAAAAAMAAAAAAAAAABAAAAei8AAAAAAAAALwAAAAAAAAABAAAAaS4AAAAAAAAALgAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					1,
+					"insert",
+					{
+						"characters": "fa"
+					},
+					"AgAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"insert_completion",
+					{
+						"completion": "font-family: ",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "font-family"
+					},
+					"AgAAACkAAAAAAAAAKQAAAAAAAAAHAAAAZm9udC1mYSkAAAAAAAAANgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAADYAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					2,
+					"left_delete",
+					null,
+					"AgAAADcAAAAAAAAANwAAAAAAAAABAAAAJzYAAAAAAAAANgAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					169,
+					1,
+					"insert",
+					{
+						"characters": "=Avenir"
+					},
+					"BwAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					7,
+					"left_delete",
+					null,
+					"BwAAADwAAAAAAAAAPAAAAAAAAAABAAAAcjsAAAAAAAAAOwAAAAAAAAABAAAAaToAAAAAAAAAOgAAAAAAAAABAAAAbjkAAAAAAAAAOQAAAAAAAAABAAAAZTgAAAAAAAAAOAAAAAAAAAABAAAAdjcAAAAAAAAANwAAAAAAAAABAAAAQTYAAAAAAAAANgAAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					171,
+					1,
+					"insert",
+					{
+						"characters": "Avenir-"
+					},
+					"BwAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"insert",
+					{
+						"characters": "Book"
+					},
+					"BAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					173,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					174,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					1,
+					"insert",
+					{
+						"characters": "helvetica"
+					},
+					"CQAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					11,
+					"left_delete",
+					null,
+					"CwAAAEsAAAAAAAAASwAAAAAAAAABAAAAYUoAAAAAAAAASgAAAAAAAAABAAAAY0kAAAAAAAAASQAAAAAAAAABAAAAaUgAAAAAAAAASAAAAAAAAAABAAAAdEcAAAAAAAAARwAAAAAAAAABAAAAZUYAAAAAAAAARgAAAAAAAAABAAAAdkUAAAAAAAAARQAAAAAAAAABAAAAbEQAAAAAAAAARAAAAAAAAAABAAAAZUMAAAAAAAAAQwAAAAAAAAABAAAAaEIAAAAAAAAAQgAAAAAAAAABAAAAIEEAAAAAAAAAQQAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"insert",
+					{
+						"characters": " Helvetica"
+					},
+					"CgAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAEwAAAAAAAAATQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					180,
+					1,
+					"insert",
+					{
+						"characters": " San"
+					},
+					"BAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"insert",
+					{
+						"characters": "s-"
+					},
+					"AgAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					182,
+					5,
+					"left_delete",
+					null,
+					"BQAAAFIAAAAAAAAAUgAAAAAAAAABAAAALVEAAAAAAAAAUQAAAAAAAAABAAAAc1AAAAAAAAAAUAAAAAAAAAABAAAAbk8AAAAAAAAATwAAAAAAAAABAAAAYU4AAAAAAAAATgAAAAAAAAABAAAAUw",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					183,
+					1,
+					"insert",
+					{
+						"characters": "snas="
+					},
+					"BQAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					184,
+					4,
+					"left_delete",
+					null,
+					"BAAAAFIAAAAAAAAAUgAAAAAAAAABAAAAPVEAAAAAAAAAUQAAAAAAAAABAAAAc1AAAAAAAAAAUAAAAAAAAAABAAAAYU8AAAAAAAAATwAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					185,
+					1,
+					"insert",
+					{
+						"characters": "ab"
+					},
+					"AgAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFAAAAAAAAAAUAAAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					187,
+					1,
+					"insert",
+					{
+						"characters": "ns-serif"
+					},
+					"CAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					188,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAFgAAAAAAAAAWQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/IncocaAdmin.github.io/scss/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 177,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "primary"
+					},
+					"CAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAQAAABiYXNlAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "02b388"
+					},
+					"BwAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAABjNjUzOGMSAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABgAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "&"
+					},
+					"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAABkAAAAAAAAAGQAAAAAAAAABAAAAJg",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "$primary-"
+					},
+					"CQAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "dark"
+					},
+					"BAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					4,
+					"left_delete",
+					null,
+					"BAAAACUAAAAAAAAAJQAAAAAAAAABAAAAayQAAAAAAAAAJAAAAAAAAAABAAAAciMAAAAAAAAAIwAAAAAAAAABAAAAYSIAAAAAAAAAIgAAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "black:"
+					},
+					"BgAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": " #"
+					},
+					"AgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "1f21"
+					},
+					"BAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "21;"
+					},
+					"AwAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "green"
+					},
+					"BgAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKAAAAAAAAAAUAAABjb2xvcgoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"paste",
+					null,
+					"AQAAADIAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "purple"
+					},
+					"BwAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAAAUAAABncmVlbjwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"paste",
+					null,
+					"AgAAAEQAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABKAAAAAAAAAAYAAAAwMmIzODg",
+					"AQAAAAAAAAABAAAARAAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "B"
+					},
+					"AgAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUAAAAAAAAAAEAAABi",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "F"
+					},
+					"AgAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAsAAAAAAAAAAEAAABm",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEsAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"paste",
+					null,
+					"AQAAAEwAAAAAAAAAZQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGUAAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"paste",
+					null,
+					"AQAAAGYAAAAAAAAAfwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAH8AAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"paste",
+					null,
+					"AQAAAIAAAAAAAAAAmQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"paste",
+					null,
+					"AQAAAJoAAAAAAAAAswAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "blue"
+					},
+					"BQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABXAAAAAAAAAAYAAABwdXJwbGVXAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"paste",
+					null,
+					"AgAAAF0AAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABjAAAAAAAAAAYAAAA0RjMxRTQ",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "yekki=="
+					},
+					"CAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABvAAAAAAAAAAYAAABwdXJwbGVvAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					5,
+					"left_delete",
+					null,
+					"BQAAAHQAAAAAAAAAdAAAAAAAAAABAAAAPXMAAAAAAAAAcwAAAAAAAAABAAAAPXIAAAAAAAAAcgAAAAAAAAABAAAAaXEAAAAAAAAAcQAAAAAAAAABAAAAa3AAAAAAAAAAcAAAAAAAAAABAAAAaw",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "llow"
+					},
+					"BAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"paste",
+					null,
+					"AgAAAHcAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB9AAAAAAAAAAYAAAA0RjMxRTQ",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "orange"
+					},
+					"BwAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACJAAAAAAAAAAYAAABwdXJwbGWJAAAAAAAAAIoAAAAAAAAAAAAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAjgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"paste",
+					null,
+					"AgAAAJEAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACXAAAAAAAAAAYAAAA0RjMxRTQ",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": "pink"
+					},
+					"BQAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACjAAAAAAAAAAYAAABwdXJwbGWjAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"paste",
+					null,
+					"AgAAAKkAAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACvAAAAAAAAAAYAAAA0RjMxRTQ",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/IncocaAdmin.github.io/scss/_avenir.scss",
+			"settings":
+			{
+				"buffer_size": 1207,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "/css/"
+					},
+					"BQAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAGIAAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"paste",
+					null,
+					"AQAAAK8AAAAAAAAAswAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AQAAAOsAAAAAAAAA7wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wAAAAAAAADrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"paste",
+					null,
+					"AQAAACUBAAAAAAAAKQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAACkBAAAAAAAAKgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"paste",
+					null,
+					"AQAAAMYBAAAAAAAAywEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgEAAAAAAADGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"paste",
+					null,
+					"AQAAAPMBAAAAAAAA+AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wEAAAAAAADzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"paste",
+					null,
+					"AQAAAEICAAAAAAAARwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgIAAAAAAABCAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"paste",
+					null,
+					"AQAAAIACAAAAAAAAhQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAIAAAAAAACAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"paste",
+					null,
+					"AQAAALwCAAAAAAAAwQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvAIAAAAAAAC8AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"paste",
+					null,
+					"AQAAAFsDAAAAAAAAYAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwMAAAAAAABbAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"paste",
+					null,
+					"AQAAAIgDAAAAAAAAjQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAMAAAAAAACIAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"paste",
+					null,
+					"AQAAANcDAAAAAAAA3AMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1wMAAAAAAADXAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"paste",
+					null,
+					"AQAAABUEAAAAAAAAGgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQQAAAAAAAAVBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"paste",
+					null,
+					"AQAAAFEEAAAAAAAAVgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQQAAAAAAABRBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1129,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA3BAAAQGZvbnQtZmFjZXtmb250LWZhbWlseTonQXZlbmlyLUJvb2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2suZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay5lb3Q/I2llZml4IikgZm9ybWF0KCJlbWJlZGRlZC1vcGVudHlwZSIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2sud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay50dGYiKSBmb3JtYXQoInRydWV0eXBlIik7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3R5bGU6bm9ybWFsfUBmb250LWZhY2V7Zm9udC1mYW1pbHk6J0F2ZW5pci1IZWF2eSc7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90PyNpZWZpeCIpIGZvcm1hdCgiZW1iZWRkZWQtb3BlbnR5cGUiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2hlYXZ5LndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkudHRmIikgZm9ybWF0KCJ0cnVldHlwZSIpO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0eWxlOm5vcm1hbH1AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidBdmVuaXItQmxhY2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdCIpO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdD8jaWVmaXgiKSBmb3JtYXQoImVtYmVkZGVkLW9wZW50eXBlIiksdXJsKCIvY3NzL2ZvbnRzL2F2ZW5pcl9ibGFjay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLndvZmYiKSBmb3JtYXQoIndvZmYiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLnR0ZiIpIGZvcm1hdCgidHJ1ZXR5cGUiKTtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHlsZTpub3JtYWx9aHRtbHtjb2xvcjojMjIyO2ZvbnQtc2l6ZToxZW07bGluZS1oZWlnaHQ6MS40fQoAAAAAAAAAADoEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA6BAAAQGZvbnQtZmFjZXtmb250LWZhbWlseTonQXZlbmlyLUJvb2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2suZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay5lb3Q/I2llZml4IikgZm9ybWF0KCJlbWJlZGRlZC1vcGVudHlwZSIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2sud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay50dGYiKSBmb3JtYXQoInRydWV0eXBlIik7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3R5bGU6bm9ybWFsfUBmb250LWZhY2V7Zm9udC1mYW1pbHk6J0F2ZW5pci1IZWF2eSc7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90PyNpZWZpeCIpIGZvcm1hdCgiZW1iZWRkZWQtb3BlbnR5cGUiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2hlYXZ5LndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkudHRmIikgZm9ybWF0KCJ0cnVldHlwZSIpO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0eWxlOm5vcm1hbH1AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidBdmVuaXItQmxhY2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdCIpO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdD8jaWVmaXgiKSBmb3JtYXQoImVtYmVkZGVkLW9wZW50eXBlIiksdXJsKCIvY3NzL2ZvbnRzL2F2ZW5pcl9ibGFjay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLndvZmYiKSBmb3JtYXQoIndvZmYiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLnR0ZiIpIGZvcm1hdCgidHJ1ZXR5cGUiKTtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHlsZTpub3JtYWx9aHRtbHtjb2xvcjojMDJCMzg4O2ZvbnQtc2l6ZToxZW07bGluZS1oZWlnaHQ6MS40fQoAAAAAAAAAADoEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA6BAAAQGZvbnQtZmFjZXtmb250LWZhbWlseTonQXZlbmlyLUJvb2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2suZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay5lb3Q/I2llZml4IikgZm9ybWF0KCJlbWJlZGRlZC1vcGVudHlwZSIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2sud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay50dGYiKSBmb3JtYXQoInRydWV0eXBlIik7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3R5bGU6bm9ybWFsfUBmb250LWZhY2V7Zm9udC1mYW1pbHk6J0F2ZW5pci1IZWF2eSc7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90PyNpZWZpeCIpIGZvcm1hdCgiZW1iZWRkZWQtb3BlbnR5cGUiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2hlYXZ5LndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkudHRmIikgZm9ybWF0KCJ0cnVldHlwZSIpO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0eWxlOm5vcm1hbH1AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidBdmVuaXItQmxhY2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdCIpO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdD8jaWVmaXgiKSBmb3JtYXQoImVtYmVkZGVkLW9wZW50eXBlIiksdXJsKCIvY3NzL2ZvbnRzL2F2ZW5pcl9ibGFjay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLndvZmYiKSBmb3JtYXQoIndvZmYiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLnR0ZiIpIGZvcm1hdCgidHJ1ZXR5cGUiKTtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHlsZTpub3JtYWx9aHRtbHtjb2xvcjojMDJCMzg4O2ZvbnQtc2l6ZToxZW07bGluZS1oZWlnaHQ6MS40fQoAAAAAAAAAADoEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA6BAAAQGZvbnQtZmFjZXtmb250LWZhbWlseTonQXZlbmlyLUJvb2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2suZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay5lb3Q/I2llZml4IikgZm9ybWF0KCJlbWJlZGRlZC1vcGVudHlwZSIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2sud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay50dGYiKSBmb3JtYXQoInRydWV0eXBlIik7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3R5bGU6bm9ybWFsfUBmb250LWZhY2V7Zm9udC1mYW1pbHk6J0F2ZW5pci1IZWF2eSc7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90PyNpZWZpeCIpIGZvcm1hdCgiZW1iZWRkZWQtb3BlbnR5cGUiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2hlYXZ5LndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkudHRmIikgZm9ybWF0KCJ0cnVldHlwZSIpO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0eWxlOm5vcm1hbH1AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidBdmVuaXItQmxhY2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdCIpO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdD8jaWVmaXgiKSBmb3JtYXQoImVtYmVkZGVkLW9wZW50eXBlIiksdXJsKCIvY3NzL2ZvbnRzL2F2ZW5pcl9ibGFjay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLndvZmYiKSBmb3JtYXQoIndvZmYiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLnR0ZiIpIGZvcm1hdCgidHJ1ZXR5cGUiKTtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHlsZTpub3JtYWx9aHRtbHtjb2xvcjojMDJCMzg4O2ZvbnQtc2l6ZToxZW07bGluZS1oZWlnaHQ6MS40fQoAAAAAAAAAADoEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA6BAAAQGZvbnQtZmFjZXtmb250LWZhbWlseTonQXZlbmlyLUJvb2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2suZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay5lb3Q/I2llZml4IikgZm9ybWF0KCJlbWJlZGRlZC1vcGVudHlwZSIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2Jvb2sud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfYm9vay50dGYiKSBmb3JtYXQoInRydWV0eXBlIik7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3R5bGU6bm9ybWFsfUBmb250LWZhY2V7Zm9udC1mYW1pbHk6J0F2ZW5pci1IZWF2eSc7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90Iik7c3JjOnVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkuZW90PyNpZWZpeCIpIGZvcm1hdCgiZW1iZWRkZWQtb3BlbnR5cGUiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2hlYXZ5LndvZmYyIikgZm9ybWF0KCJ3b2ZmMiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkud29mZiIpIGZvcm1hdCgid29mZiIpLHVybCgiL2Nzcy9mb250cy9hdmVuaXJfaGVhdnkudHRmIikgZm9ybWF0KCJ0cnVldHlwZSIpO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0eWxlOm5vcm1hbH1AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidBdmVuaXItQmxhY2snO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdCIpO3NyYzp1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLmVvdD8jaWVmaXgiKSBmb3JtYXQoImVtYmVkZGVkLW9wZW50eXBlIiksdXJsKCIvY3NzL2ZvbnRzL2F2ZW5pcl9ibGFjay53b2ZmMiIpIGZvcm1hdCgid29mZjIiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLndvZmYiKSBmb3JtYXQoIndvZmYiKSx1cmwoIi9jc3MvZm9udHMvYXZlbmlyX2JsYWNrLnR0ZiIpIGZvcm1hdCgidHJ1ZXR5cGUiKTtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHlsZTpub3JtYWx9Ym9keXtjb2xvcjojMUYyMTIxO2ZvbnQtc2l6ZToxZW07bGluZS1oZWlnaHQ6MS40fQoAAAAAAAAAAGkEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"orig",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Volumes/GoogleDrive/My Drive/MY HARDRIVE - 1:25:21/Invoca/Websites/4.0/Assets/SCSS/External Marketo Form Style.scss",
+		"/Volumes/GoogleDrive/My Drive/MY HARDRIVE - 1:25:21/Invoca/Websites/4.0/Assets/SCSS/External Marketo Form Style.css",
+		"/Volumes/GoogleDrive/My Drive/MY HARDRIVE/Invoca/Websites/4.0/Assets/SCSS/External Marketo Form Style.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/global.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/form.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/vidyard-embed.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/vidyard-embed.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/Blog Links.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/global.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/blog.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/Blog Links.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/variables.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/blog-subscribeform.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/blog-subscribeform.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/chartjs.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/chartjs.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/blog.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/blog-subscribeform.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/as-form.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/as-form.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/glide.scss",
+		"/Users/mbrodersen/Desktop/info.html",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/greenhouse.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/call-tracking-analytics.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/call-tracking-analytics.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/greenhouse.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/nav.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/homepage.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/signal_discovery.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/form.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/homepage.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Plugins/glide-3.4.0/src/assets/sass/_variables.scss",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/signal_discovery.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/nav.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/CSS/glide.css",
+		"/Users/mbrodersen/Desktop/Invoca/Websites/4.0/Assets/SCSS/homepage..scss",
+		"/Users/mbrodersen/Library/Group Containers/UBF8T346G9.Office/User Content.localized/Themes.localized/Theme Colors/Invoca Summit 2019.xml",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/why-attend.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/venue.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/terms-conditions.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/sponsors.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/speakers.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/sessions.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/pricing.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/index.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/code-of-conduct.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/awards.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/agenda.html",
+		"/Volumes/Invoca - Production Server/summit/agenda.html",
+		"/Volumes/Invoca - Production Server/summit/index.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/css/components.css",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Website/is19-std-ce509e820020ed26-22c5f790dfcb5.webflow/css/is19-std-ce509e820020ed26-22c5f790dfcb5.css",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Conferences/Invoca Summit/2019/Email/Registration/registration.html",
+		"/Users/mbrodersen/Desktop/Invoca/Brand/Company Emails/Insights Newsletter/v2.html",
+		"/Applications/MAMP/htdocs/invoca3-0/seo-page.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/variables.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/homepage.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/seo.less",
+		"/Applications/MAMP/htdocs/invoca3-0/index.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/main.less",
+		"/Applications/MAMP/htdocs/invoca3-0/seo-v2.php",
+		"/Applications/MAMP/htdocs/invoca3-0/includes/header.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/vmc.less",
+		"/Applications/MAMP/htdocs/invoca3-0/vmc.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/customers_v2.less",
+		"/Applications/MAMP/htdocs/invoca3-0/customers_new.php",
+		"/Applications/MAMP/htdocs/invoca3-0/sass/greenhouse_board.scss",
+		"/Applications/MAMP/htdocs/invoca3-0/team.php",
+		"/Applications/MAMP/htdocs/invoca3-0/js/app.js",
+		"/Applications/MAMP/htdocs/invoca3-0/less/company.less",
+		"/Applications/MAMP/htdocs/invoca3-0/product-tour.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/tour.less",
+		"/Applications/MAMP/htdocs/invoca3-0/careers.php",
+		"/Applications/MAMP/htdocs/invoca3-0/thanks.php",
+		"/Applications/MAMP/htdocs/invoca3-0/signal-ai.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/thanks.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/marketo.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/signalai.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/sfsc.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/product.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/heros.less",
+		"/Applications/MAMP/htdocs/invoca3-0/local-marketing.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/solutions.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/header.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/platform.less",
+		"/Applications/MAMP/htdocs/invoca3-0/includes/footer.php",
+		"/Applications/MAMP/htdocs/invoca3-0/adobe.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/aec.less",
+		"/Applications/MAMP/htdocs/invoca3-0/phone.php",
+		"/Applications/MAMP/htdocs/invoca3-0/genesys.html",
+		"/Applications/MAMP/htdocs/invoca3-0/less/footer.less",
+		"/Users/mbrodersen/Desktop/rca_logo.html",
+		"/Applications/MAMP/htdocs/invoca3-0/about.php",
+		"/Applications/MAMP/htdocs/invoca3-0/js/app.plugins.js",
+		"/Users/mbrodersen/Desktop/svg.html",
+		"/Applications/MAMP/htdocs/invoca3-0/press.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/buttons.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/resources.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/error.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/typography.less",
+		"/Applications/MAMP/htdocs/invoca3-0/css/main.css",
+		"/Applications/MAMP/htdocs/invoca3-0/js/sineVMC.js",
+		"/Applications/MAMP/htdocs/invoca3-0/js/signalVMC.js",
+		"/Applications/MAMP/htdocs/invoca3-0/js/digitalMC_dev.js",
+		"/Applications/MAMP/htdocs/invoca3-0/sass/sequence.scss",
+		"/Applications/MAMP/htdocs/invoca3-0/anime.html",
+		"/Users/mbrodersen/Desktop/Invoca/Partners/Source/S/samsung.svg",
+		"/Applications/MAMP/htdocs/invoca3-0/css/sequence.css",
+		"/Applications/MAMP/htdocs/invoca3-0/less/gradients.less",
+		"/Users/mbrodersen/Desktop/product.html",
+		"/Applications/MAMP/htdocs/invoca3-0/index_old.php",
+		"/Applications/MAMP/htdocs/invoca3-0/cloud-infrastructure.html",
+		"/Applications/MAMP/htdocs/invoca3-0/instagram-integration.php",
+		"/Applications/MAMP/htdocs/invoca3-0/fb-integration.php",
+		"/Applications/MAMP/htdocs/invoca3-0/includes/nav.php",
+		"/Applications/MAMP/htdocs/invoca3-0/less/customers.less",
+		"/Applications/MAMP/htdocs/invoca3-0/customers-alt.php",
+		"/Applications/MAMP/htdocs/invoca3-0/chapter_on_demand.html",
+		"/Applications/MAMP/htdocs/invoca3-0/ci-platform.php",
+		"/Applications/MAMP/htdocs/invoca3-0/customers.php",
+		"/Volumes/Invoca - Stage Server/wp-content/themes/invoca/resource-video-page.php",
+		"/Applications/MAMP/htdocs/invoca3-0/events.php",
+		"/Applications/MAMP/htdocs/invoca3-0/js/app-old.js",
+		"/Applications/MAMP/htdocs/invoca3-0/less/company-old.less",
+		"/Applications/MAMP/htdocs/invoca3-0/less/casestudy.less",
+		"/Applications/MAMP/htdocs/invoca3-0/brady-cs.php",
+		"/Applications/MAMP/htdocs/invoca3-0/vivint-cs.php",
+		"/Applications/MAMP/htdocs/cii/less/flex.less"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/IncocaAdmin.github.io/scss/html {.scss",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"auto_name": "html {",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/IncocaAdmin.github.io/scss/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/IncocaAdmin.github.io/scss/_avenir.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1110,
+								1110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/mbrodersen/Desktop/Invoca/Websites/Academy/Skilljar/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 6226.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "skilljar.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"less/aec.less"
+			],
+			[
+				"mark",
+				"marketing-department.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
