@@ -105,6 +105,18 @@
       "oAP" : "\/css\/fonts\/avenir-heavy.woff2",
       "oF" : 0
     },
+    "\/css\/main.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/main-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/scss\/_avenir.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -115,6 +127,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/_avenir.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/_normalize.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
