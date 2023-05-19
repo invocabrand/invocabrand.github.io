@@ -5,6 +5,7 @@ $body-size: 16px !default
 $body-min-width: 300px !default
 $body-rendering: optimizeLegibility !default
 $body-family: $family-primary !default
+$heading-family: $heading-primary !default
 $body-overflow-x: hidden !default
 $body-overflow-y: scroll !default
 
@@ -70,6 +71,15 @@ body
   font-size: $body-font-size
   font-weight: $body-weight
   line-height: $body-line-height
+
+// Headings
+h1, 
+  h2, 
+    h3, 
+      h4, 
+        h5, 
+          h6 
+  font-family: $headings-sans-serif
 
 // Inline
 
@@ -143,7 +153,3 @@ table
       text-align: inherit
   th
     color: $text-strong
-
-  // Headings
-  h1, h2, h3, h4, h5, h6 
-    font-family: $headings-sans-serif
