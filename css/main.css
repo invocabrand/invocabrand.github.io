@@ -7887,7 +7887,9 @@ a.coursebox-container {
   box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02); }
   a.coursebox-container:hover {
     box-shadow: 0 4px 8px rgba(5, 57, 68, 0.15), 0 5px 25px rgba(5, 57, 68, 0.1);
-    border: none; }
+    border: none;
+    -webkit-transform: translateY(-20px);
+            transform: translateY(-20px); }
   a.coursebox-container .coursebox-text-description {
     line-height: 1.5;
     font-size: 1.125em; }
