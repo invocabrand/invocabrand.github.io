@@ -1,0 +1,36 @@
+$layout-breakpoint-desktop: 960px
+$layout-breakpoint-widescreen: 1152px
+$layout-breakpoint-fullhd: 1344px
+
+
+@media (min-width: $layout-breakpoint-desktop)
+    .no-catalog-filters, .catalog-center-width 
+        width: 960px
+
+
+@media (min-width: $layout-breakpoint-widescreen)
+    .no-catalog-filters, .catalog-center-width 
+        width: 1152px
+
+
+@media (min-width: $layout-breakpoint-fullhd)
+    .no-catalog-filters, .catalog-center-width 
+        width: 1344px
+
+.catalog-center-width 
+    margin: 0 auto
+    padding: 0 8px
+
+//CATALOG COURSES
+.sj-page-catalog, #catalog-courses
+    justify-content: flex-start
+
+#catalog-courses
+    display: inline-flex
+    gap: 1.25%
+    margin-left: -0.75rem
+    margin-right: -0.75rem
+    margin-top: -0.75rem
+
+a.coursebox-container
+    width: 24%
