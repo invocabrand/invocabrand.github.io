@@ -7884,12 +7884,12 @@ a.coursebox-container {
   margin: 0% 0% 1% 0%;
   border: none;
   border-radius: 10px;
-  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02); }
+  box-shadow: 0 2px 4px rgba(5, 57, 68, 0.1), 0 4px 16px rgba(5, 57, 68, 0.07); }
   a.coursebox-container:hover {
     box-shadow: 0 4px 8px rgba(5, 57, 68, 0.15), 0 5px 25px rgba(5, 57, 68, 0.1);
     border: none;
-    -webkit-transform: translateY(-20px);
-            transform: translateY(-20px); }
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px); }
   a.coursebox-container .coursebox-text-description {
     line-height: 1.5;
     font-size: 1.125em; }

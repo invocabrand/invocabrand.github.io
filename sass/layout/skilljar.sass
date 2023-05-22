@@ -42,10 +42,16 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
     margin-top: -0.75rem
 
 a.coursebox-container
+    transition:all .35s easeOutQuint
+    width: 24%
+    margin: 0% 0% 1% 0%
+    border: none
+    border-radius: $border-radius
+    box-shadow: 0 2px 4px rgba(5, 57, 68, 0.10), 0 4px 16px rgba(5, 57, 68, 0.07)
     &:hover
-        box-shadow: $card-shadow-hover
+        box-shadow: 0 4px 8px rgba(5, 57, 68, 0.15), 0 5px 25px rgba(5, 57, 68, 0.1)
         border: none
-        transform: translateY(-20px)
+        transform: translateY(-10px)
     .coursebox-text-description
         line-height: 1.5
         font-size: 1.125em
@@ -65,10 +71,3 @@ a.coursebox-container
         text-align: left
         font-size: 1.125em
         display: block
-
-    transition:all .25s ease
-    width: 24%
-    margin: 0% 0% 1% 0%
-    border: none
-    border-radius: $border-radius
-    box-shadow: $card-shadow
