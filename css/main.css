@@ -7901,4 +7901,11 @@ a.coursebox-container {
     color: #202222 !important;
     font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
     font-weight: normal;
-    text-align: left; }
+    text-align: left;
+    font-size: 1.125em;
+    display: block; }
+    a.coursebox-container .catalog-page-callout:before {
+      content: "";
+      width: 100%;
+      border-top: 1px solid #b3bac5;
+      display: block; }

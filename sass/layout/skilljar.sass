@@ -54,10 +54,18 @@ a.coursebox-container
         font-size: 1.625em
         line-height: 1.25
     .catalog-page-callout
+        &:before
+            content: ""
+            width: 100%
+            border-top: 1px solid #b3bac5
+            display: block
         color: $charcoal !important
         font-family: $strong-sans-serif
         font-weight: normal
         text-align: left
+        font-size: 1.125em
+        display: block
+
     transition:all .25s ease
     width: 24%
     margin: 0% 0% 1% 0%
