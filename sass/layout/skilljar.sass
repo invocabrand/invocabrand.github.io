@@ -9,26 +9,30 @@ $box-shadow: 0 2px 4px rgba($shadow, 0.10), 0 4px 16px rgba($shadow, 0.07) !defa
 
 
 @media (min-width: $layout-breakpoint-desktop)
-    .no-catalog-filters, .catalog-center-width 
-        width: 960px
+    .no-catalog-filters
+        .catalog-center-width 
+            width: 960px
 
 
 @media (min-width: $layout-breakpoint-widescreen)
-    .no-catalog-filters, .catalog-center-width 
-        width: 1152px
+    .no-catalog-filters
+        .catalog-center-width 
+            width: 1152px
 
 
 @media (min-width: $layout-breakpoint-fullhd)
-    .no-catalog-filters, .catalog-center-width 
-        width: 1344px
+    .no-catalog-filters
+        .catalog-center-width 
+            width: 1344px
 
 .catalog-center-width 
     margin: 0 auto
     padding: 0 8px
 
 //CATALOG COURSES
-.sj-page-catalog, #catalog-courses
-    justify-content: flex-start
+.sj-page-catalog
+    #catalog-courses
+        justify-content: flex-start
 
 #catalog-courses
     display: inline-flex
@@ -43,7 +47,7 @@ a.coursebox-container
     border: none
     border-radius: $border-radius
     box-shadow: $box-shadow
-    
+
     coursebox-text-description
         line-height: 1.5
         font-size: 1.125em
