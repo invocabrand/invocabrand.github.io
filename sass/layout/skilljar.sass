@@ -3,10 +3,10 @@ $layout-breakpoint-widescreen: 1213px
 $layout-breakpoint-fullhd: 1500px
 
 $shadow: #053944 !default
+$shadow2: #053944 !default
 $border-radius: 10px !default
 $box-shadow: 0 2px 4px rgba($shadow, 0.10), 0 4px 16px rgba($shadow, 0.07) !default
-
-
+$box-shadow-hover: 0 4px 8px rgba($shadow2, 0.15), 0 5px 25px rgba($shadow2, 0.1) !default
 
 @media (min-width: $layout-breakpoint-desktop)
     .no-catalog-filters
@@ -42,11 +42,8 @@ $box-shadow: 0 2px 4px rgba($shadow, 0.10), 0 4px 16px rgba($shadow, 0.07) !defa
     margin-top: -0.75rem
 
 a.coursebox-container
-    width: 24%
-    margin: 0% 0% 1% 0%
-    border: none
-    border-radius: $border-radius
-    box-shadow: $box-shadow
+    &:hover
+        box-shadow: $box-shadow-hover
     coursebox-text-description
         line-height: 1.5
         font-size: 1.125em
@@ -55,3 +52,8 @@ a.coursebox-container
         line-height: 1.25
     catalog-page-callout
         color: $charcoal
+    width: 24%
+    margin: 0% 0% 1% 0%
+    border: none
+    border-radius: $border-radius
+    box-shadow: $box-shadow
