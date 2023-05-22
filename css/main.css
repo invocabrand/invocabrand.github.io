@@ -7894,7 +7894,11 @@ a.coursebox-container {
     line-height: 1.5;
     font-size: 1.125em; }
   a.coursebox-container .coursebox-text {
+    font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
     font-size: 1.625em;
     line-height: 1.25; }
   a.coursebox-container .catalog-page-callout {
-    color: #202222; }
+    color: #202222 !important;
+    font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    text-align: left; }
