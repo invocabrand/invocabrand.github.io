@@ -7932,7 +7932,8 @@ a.coursebox-container {
     display: none; }
 
 .int-hero-content {
-  min-height: 200px; }
+  min-height: 200px;
+  padding-bottom: 50px; }
   .int-hero-content h2 {
     font-size: 3em;
     margin-bottom: .25em; }
