@@ -7928,6 +7928,13 @@ a.coursebox-container {
     text-align: left;
     font-size: 1.125em; }
 
+.int-hero-content {
+  min-height: 200px; }
+  .int-hero-content h2 {
+    font-size: 3em; }
+  .int-hero-content .int-subheading {
+    font-size: 1.625em; }
+
 a.coursebox-container[data-tags*="separator"] {
   padding: 0px !important;
   text-align: left !important;
