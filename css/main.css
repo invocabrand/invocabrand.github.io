@@ -7936,6 +7936,10 @@ a.coursebox-container {
   .int-hero-content h2 {
     font-size: 3em;
     margin-bottom: .25em; }
+  .int-hero-content p {
+    font-size: 1.123em; }
+  .int-hero-content a {
+    font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif; }
   .int-hero-content .int-subheading {
     font-size: 1.625em;
     text-align: center; }
