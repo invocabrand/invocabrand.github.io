@@ -7920,7 +7920,7 @@ a.coursebox-container {
     font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
     font-size: 1.625em;
     line-height: 1.25; }
-  a.coursebox-container .catalog-page-callout {
+  a.coursebox-container .catalog-page-callout, a.coursebox-container .coursebox-callout {
     border-top: 1px solid #B3BAC5;
     color: #202222 !important;
     font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
