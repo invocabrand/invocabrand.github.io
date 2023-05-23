@@ -7931,9 +7931,11 @@ a.coursebox-container {
 .int-hero-content {
   min-height: 200px; }
   .int-hero-content h2 {
-    font-size: 3em; }
+    font-size: 3em;
+    margin-bottom: .25em; }
   .int-hero-content .int-subheading {
-    font-size: 1.625em; }
+    font-size: 1.625em;
+    text-align: center; }
 
 a.coursebox-container[data-tags*="separator"] {
   padding: 0px !important;
