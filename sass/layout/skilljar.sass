@@ -114,3 +114,42 @@ a.coursebox-container[data-tags*="separator"] .storefront-price,
 .search a.coursebox-container[data-tags*="separator"],
 a.coursebox-container[data-tags*="separator"] .coursebox-image
     display: none !important
+
+
+//INTERIOR FILTER NAV
+#main-container 
+    nav#catalog-left-nav
+        background-color: $neutral
+
+        a.back-to-catalog
+            font-size: 1em
+            text-align: center
+
+        .catalog-filter-menu 
+            .margin-bottom
+                margin-bottom: 28px
+
+        .filter-group-title
+            border-bottom: 2px solid rgba($charcoal, .50)
+
+        div.tag-labels
+            font-size: 1em;
+            .filter-option-tag
+                display: flex
+                align-items: center
+                margin-bottom: 18px
+
+                input[type="checkbox"]
+                    width: 20px
+                    height: 20px
+                    border-radius: 40px
+                    border: 3px solid $charcoal
+
+                .filter-name
+                    margin: 0 0 0 12px
+                    color: $charcoal
+                    top: 2px
+
+                .filter-counter
+                    opacity: .50
+                    font-size: 1em

@@ -7968,3 +7968,31 @@ a.coursebox-container[data-tags*="separator"] .storefront-price,
 .search a.coursebox-container[data-tags*="separator"],
 a.coursebox-container[data-tags*="separator"] .coursebox-image {
   display: none !important; }
+
+#main-container nav#catalog-left-nav {
+  background-color: #f6f8f9; }
+  #main-container nav#catalog-left-nav a.back-to-catalog {
+    font-size: 1em;
+    text-align: center; }
+  #main-container nav#catalog-left-nav .catalog-filter-menu .margin-bottom {
+    margin-bottom: 28px; }
+  #main-container nav#catalog-left-nav .filter-group-title {
+    border-bottom: 2px solid rgba(32, 34, 34, 0.5); }
+  #main-container nav#catalog-left-nav div.tag-labels {
+    font-size: 1em; }
+    #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag {
+      display: flex;
+      align-items: center;
+      margin-bottom: 18px; }
+      #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        border-radius: 40px;
+        border: 3px solid #202222; }
+      #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag .filter-name {
+        margin: 0 0 0 12px;
+        color: #202222;
+        top: 2px; }
+      #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag .filter-counter {
+        opacity: .50;
+        font-size: 1em; }
