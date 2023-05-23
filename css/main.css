@@ -7928,6 +7928,8 @@ a.coursebox-container {
     font-weight: normal;
     text-align: left;
     font-size: 1.125em; }
+  a.coursebox-container .storefront-price {
+    display: none; }
 
 .int-hero-content {
   min-height: 200px; }
