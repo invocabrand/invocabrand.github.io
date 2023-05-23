@@ -7892,7 +7892,8 @@ a.coursebox-container {
             transform: translateY(-10px); }
   a.coursebox-container .coursebox-text-description {
     line-height: 1.5;
-    font-size: 1.125em; }
+    font-size: 1.125em;
+    padding: 0 24px 30px 26px; }
   a.coursebox-container .coursebox-text {
     font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
     font-size: 1.625em;
@@ -7904,3 +7905,23 @@ a.coursebox-container {
     font-weight: normal;
     text-align: left;
     font-size: 1.125em; }
+
+/* Set font size for separator titles */
+a.coursebox-container[data-tags*="separator"] {
+  padding: 0px !important;
+  text-align: left !important;
+  width: 100% !important;
+  min-height: unset !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  pointer-events: none !important;
+  border: none !important; }
+  a.coursebox-container[data-tags*="separator"] .coursebox-text {
+    font-size: 48px; }
+  a.coursebox-container[data-tags*="separator"] .coursebox-text-description {
+    margin: 0px; }
+
+a.coursebox-container[data-tags*="separator"] .storefront-price,
+.search a.coursebox-container[data-tags*="separator"],
+a.coursebox-container[data-tags*="separator"] .coursebox-image {
+  display: none !important; }
