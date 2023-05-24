@@ -8065,6 +8065,8 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
 .sj-page-profile .columns {
   margin: 0;
   display: inherit; }
+  .sj-page-profile .columns.sj-avatar-data-v2 {
+    margin-bottom: 16px; }
   .sj-page-profile .columns.sj-update-profile-v2 {
     display: flex; }
 
