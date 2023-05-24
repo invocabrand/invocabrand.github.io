@@ -447,7 +447,7 @@ a.box:active {
   box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.2), 0 0 0 1px #02B388; }
 
 .button {
-  font-family: "Avenir-Heavy" Helvetica Arial sans-serif;
+  font-family: "Avenir-Heavy", Helvetica, Arial, sans-serif;
   background-color: white;
   border-color: #dbdbdb;
   border-width: 1px;
@@ -8054,6 +8054,9 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
     .catalog-filters a.coursebox-container {
       width: 31.333%;
       margin: 0% 0% 3% 0%; } }
+.sj-page-profile .sj-grey-bg-v2 {
+  background: rgba(204, 240, 231, 0.5); }
+
 .sj-page-profile #skilljar-content {
   padding-top: 80px; }
   @media (min-width: 768px) {
@@ -8062,6 +8065,14 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
 .sj-page-profile .columns {
   margin: 0;
   display: inherit; }
+  .sj-page-profile .columns.sj-update-profile-v2 {
+    display: flex; }
 
 .sj-page-profile .sj-text-my-profile {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  white-space: nowrap; }
+
+.sj-page-profile #button-profile-update {
+  background-color: #02B388;
+  border-color: #02B388;
+  border-radius: 100px; }
