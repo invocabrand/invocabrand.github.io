@@ -153,7 +153,8 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
                 margin-bottom: 18px
                 &:hover,
                 &:active
-                    color: $green
+                    .filter-name
+                        color: $green
 
                 input[type="checkbox"]
                     width: 20px
@@ -186,7 +187,7 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
         @media (min-width: 1563px)
             padding: 0 5em
     #catalog-courses
-        gap: 2%
+        gap: 30px
         justify-content: center !important
         @media (min-width: 1563px)
             gap: 3%
@@ -196,7 +197,7 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
         margin-top: 0rem
     a.coursebox-container
         width: 350px
-        margin: 0 0 40px 0
+        margin: 0
         @media (min-width: 1563px)
             width: 31.333%
 
