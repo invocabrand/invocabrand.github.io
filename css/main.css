@@ -7965,7 +7965,7 @@ a.coursebox-container[data-tags*="separator"] {
   pointer-events: none !important;
   border: none !important; }
   a.coursebox-container[data-tags*="separator"] .coursebox-text {
-    font-size: 2.375em;
+    font-size: 2.375em !important;
     padding: 0px;
     margin: 60px 0 10px 0; }
   a.coursebox-container[data-tags*="separator"] .coursebox-text-description,
