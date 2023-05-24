@@ -7971,6 +7971,10 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
 
 #main-container nav#catalog-left-nav {
   background-color: #f6f8f9 !important; }
+  #main-container nav#catalog-left-nav input[type='checkbox']:checked {
+    background-color: #02B388; }
+  #main-container nav#catalog-left-nav .catalog-search-input-group:after {
+    top: 3px; }
   #main-container nav#catalog-left-nav a.back-to-catalog {
     font-size: 1em;
     text-align: center; }

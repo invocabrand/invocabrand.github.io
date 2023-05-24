@@ -120,7 +120,12 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
 #main-container 
     nav#catalog-left-nav
         background-color: $neutral !important
-
+        input[type='checkbox']
+            &:checked
+                background-color: $green
+        .catalog-search-input-group
+            &:after
+                top: 3px
         a.back-to-catalog
             font-size: 1em
             text-align: center
