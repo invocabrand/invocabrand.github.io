@@ -8037,10 +8037,6 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
 .catalog-filters a.coursebox-container {
   width: 350px;
   margin: 0 0 40px 0; }
-  @media (min-width: 957px) {
-    .catalog-filters a.coursebox-container {
-      width: 49%;
-      margin: 0% 0% 3% 0%; } }
   @media (min-width: 1563px) {
     .catalog-filters a.coursebox-container {
       width: 31.333%; } }
