@@ -7930,13 +7930,11 @@ a.coursebox-container {
     font-size: 1.125em; }
   a.coursebox-container .storefront-price {
     display: none; }
-  a.coursebox-container .sj-course-series:before,
-  a.coursebox-container .sj-path:before {
+  a.coursebox-container.sj-course-series:before, a.coursebox-container.sj-path:before {
     background: transparent;
     border-radius: 0;
     border: none; }
-  a.coursebox-container .sj-course-series:hover:before,
-  a.coursebox-container .sj-path:hover:before {
+  a.coursebox-container.sj-course-series:hover:before, a.coursebox-container.sj-path:hover:before {
     box-shadow: none; }
 
 .int-hero-content {
