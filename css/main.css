@@ -8157,7 +8157,7 @@ textarea {
   height: 2.3125em;
   width: 100%;
   box-sizing: border-box;
-  transition: box-shadow .45s,border-color .45s ease-in-out; }
+  transition: box-shadow .45s, border-color .45s ease-in-out; }
   input[type=text]:focus,
   input[type=password]:focus,
   input[type=date]:focus,
@@ -8178,8 +8178,8 @@ textarea {
     box-shadow: none; }
 
 #header #header-right .catalog-search-input-group .catalog-search-input {
-  border: 1px solid;
-  border-radius: 3px #7a7a7a; }
+  border: 1px solid #7a7a7a;
+  border-radius: 3px; }
 
 #header #header-right .catalog-search-input-group .catalog-search-input-button-wrapper {
   display: none; }
