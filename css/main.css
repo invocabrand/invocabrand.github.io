@@ -8177,9 +8177,9 @@ textarea {
     outline: none;
     box-shadow: none; }
 
-#header #header-right .catalog-search-input-button-wrapper {
-  display: none; }
-
 #header #header-right .catalog-search-input-group .catalog-search-input {
   border: 1px solid;
   border-radius: 3px #7a7a7a; }
+
+#header #header-right .catalog-search-input-group .catalog-search-input-button-wrapper {
+  display: none; }
