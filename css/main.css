@@ -8034,6 +8034,8 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
   display: table;
   border-collapse: separate;
   margin-bottom: 25px; }
+  .catalog-search-input-group:after {
+    content: none; }
   .catalog-search-input-group .catalog-search-input {
     display: table-cell;
     position: relative;
@@ -8053,10 +8055,9 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
       background-color: white;
       font-family: inherit;
       border: 1px solid #ccc;
-      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1) !important;
       color: rgba(0, 0, 0, 0.75);
       display: block;
-      font-size: .875em;
       margin: 0 0 1em 0;
       padding: 0.5em;
       height: 2.3125em;
