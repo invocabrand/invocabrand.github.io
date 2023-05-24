@@ -159,5 +159,29 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
                 .filter-counter
                     opacity: .50
                     font-size: 1.125em
-                    display: inline-block;
-                    margin-left: 5px;
+                    display: inline-block
+                    margin-left: 5px
+
+//TEXT LINKS
+.focus-link-v2
+    transition: all 200ms ease
+
+$layout-breakpoint-desktop: 926px
+$layout-breakpoint-widescreen: 1213px
+$layout-breakpoint-fullhd: 1500px
+
+//BROWSE ALL COURSES
+.catalog-filters
+    @media (min-width: 64em)
+        .catalog-filters 
+            .catalog-center-width
+                padding: 0 5em
+    #catalog-courses
+        gap: 3%
+        margin-left: 0rem
+        margin-right: 0rem
+        margin-top: 0rem
+    a.coursebox-container
+        width: 31.333%
+
+

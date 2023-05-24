@@ -8003,3 +8003,19 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
         font-size: 1.125em;
         display: inline-block;
         margin-left: 5px; }
+
+.focus-link-v2 {
+  transition: all 200ms ease; }
+
+@media (min-width: 64em) {
+  .catalog-filters .catalog-filters .catalog-center-width {
+    padding: 0 5em; } }
+
+.catalog-filters #catalog-courses {
+  gap: 3%;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  margin-top: 0rem; }
+
+.catalog-filters a.coursebox-container {
+  width: 31.333%; }
