@@ -70,6 +70,17 @@ a.coursebox-container
         font-size: 1.125em
     .storefront-price
         display: none
+    .sj-course-series,
+    .sj-path
+        &:before
+            background: transparent
+            border-radius: 0
+            border: none
+    .sj-course-series,
+    .sj-path
+        &:hover
+            &:before
+                box-shadow: none
     
 
 
@@ -132,6 +143,10 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
                 font-size: 14px
                 padding-left: 0
                 padding-top: .45em
+        .view-results-wrapper
+            .view-results
+                font-size: 1rem
+                line-height: 1rem
         .catalog-search-input-group
             &:after
                 top: 3px
@@ -153,7 +168,8 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
                 align-items: center
                 margin-bottom: 18px
                 &:hover,
-                &:active
+                &:active,
+                &:focus
                     .filter-name
                         color: $green
 

@@ -7930,6 +7930,14 @@ a.coursebox-container {
     font-size: 1.125em; }
   a.coursebox-container .storefront-price {
     display: none; }
+  a.coursebox-container .sj-course-series:before,
+  a.coursebox-container .sj-path:before {
+    background: transparent;
+    border-radius: 0;
+    border: none; }
+  a.coursebox-container .sj-course-series:hover:before,
+  a.coursebox-container .sj-path:hover:before {
+    box-shadow: none; }
 
 .int-hero-content {
   min-height: 200px;
@@ -7982,6 +7990,9 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
     font-size: 14px;
     padding-left: 0;
     padding-top: .45em; }
+  #main-container nav#catalog-left-nav .view-results-wrapper .view-results {
+    font-size: 1rem;
+    line-height: 1rem; }
   #main-container nav#catalog-left-nav .catalog-search-input-group:after {
     top: 3px; }
   #main-container nav#catalog-left-nav a.back-to-catalog {
@@ -7997,7 +8008,7 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
       display: flex;
       align-items: center;
       margin-bottom: 18px; }
-      #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag:hover .filter-name, #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag:active .filter-name {
+      #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag:hover .filter-name, #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag:active .filter-name, #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag:focus .filter-name {
         color: #02B388; }
       #main-container nav#catalog-left-nav div.tag-labels .filter-option-tag input[type="checkbox"] {
         width: 20px;
