@@ -81,6 +81,7 @@ a.coursebox-container
     h2
         font-size: 3em
         margin-bottom: .25em
+        text-align: center
     p
         font-size: 1.123em
     a
@@ -166,22 +167,27 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
 .focus-link-v2
     transition: all 200ms ease
 
-$layout-breakpoint-desktop: 926px
-$layout-breakpoint-widescreen: 1213px
-$layout-breakpoint-fullhd: 1500px
-
 //BROWSE ALL COURSES
 .catalog-filters
     @media (min-width: 64em)
-        .catalog-filters 
-            .catalog-center-width
-                padding: 0 5em
+        .catalog-center-width
+            padding: 0 5em
     #catalog-courses
-        gap: 3%
+        gap: 2%
+        justify-content: center !important
+        @media (min-width: 1563px)
+            gap: 3%
+            justify-content: flex-start !important
         margin-left: 0rem
         margin-right: 0rem
         margin-top: 0rem
     a.coursebox-container
-        width: 31.333%
+        width: 350px
+        margin: 0 0 40px 0
+        @media (min-width: 957px)
+            width: 49%
+            margin: 0% 0% 3% 0%
+        @media (min-width: 1563px)
+            width: 31.333%
 
 
