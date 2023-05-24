@@ -58,7 +58,7 @@ a.coursebox-container
         padding: 0 24px 30px 26px
     .coursebox-text
         font-family: $strong-sans-serif
-        font-size: 1.625em
+        font-size: 1.625em !important
         line-height: 1.25
     .catalog-page-callout, 
     .coursebox-callout
@@ -169,8 +169,9 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image
 
 //BROWSE ALL COURSES
 .catalog-filters
-    @media (min-width: 64em)
-        .catalog-center-width
+    .catalog-center-width
+        padding: 0
+        @media (min-width: 1563px)
             padding: 0 5em
     #catalog-courses
         gap: 2%

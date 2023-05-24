@@ -7918,7 +7918,7 @@ a.coursebox-container {
     padding: 0 24px 30px 26px; }
   a.coursebox-container .coursebox-text {
     font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
-    font-size: 1.625em;
+    font-size: 1.625em !important;
     line-height: 1.25; }
   a.coursebox-container .catalog-page-callout,
   a.coursebox-container .coursebox-callout {
@@ -8008,10 +8008,11 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
 .focus-link-v2 {
   transition: all 200ms ease; }
 
-@media (min-width: 64em) {
-  .catalog-filters .catalog-center-width {
-    padding: 0 5em; } }
-
+.catalog-filters .catalog-center-width {
+  padding: 0; }
+  @media (min-width: 1563px) {
+    .catalog-filters .catalog-center-width {
+      padding: 0 5em; } }
 .catalog-filters #catalog-courses {
   gap: 2%;
   justify-content: center !important;
