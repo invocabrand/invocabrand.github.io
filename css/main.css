@@ -8075,4 +8075,5 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
 .sj-page-profile #button-profile-update {
   background-color: #02B388;
   border-color: #02B388;
-  border-radius: 100px; }
+  border-radius: 100px;
+  color: white; }
