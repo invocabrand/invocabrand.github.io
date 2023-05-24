@@ -242,8 +242,10 @@ h6 {
   font-weight: normal; }
 
 h1 {
-  font-size: 4em; }
-
+  font-size: 3em; }
+  @media (min-width: 768px) {
+    h1 {
+      font-size: 4em; } }
 h2 {
   font-size: 3em; }
 
@@ -8052,3 +8054,14 @@ a.coursebox-container[data-tags*="separator"] .coursebox-image {
     .catalog-filters a.coursebox-container {
       width: 31.333%;
       margin: 0% 0% 3% 0%; } }
+.sj-page-profile #skilljar-content {
+  padding-top: 80px; }
+  @media (min-width: 768px) {
+    .sj-page-profile #skilljar-content {
+      padding-top: 120px; } }
+.sj-page-profile .columns {
+  margin: 0;
+  display: inherit; }
+
+.sj-page-profile .sj-text-my-profile {
+  margin-bottom: 30px; }
