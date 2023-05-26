@@ -30,10 +30,6 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
     padding: 0 8px
 
 //CATALOG COURSES
-
-$layout-breakpoint-desktop: 926px
-$layout-breakpoint-widescreen: 1213px
-$layout-breakpoint-fullhd: 1500px
 .sj-page-catalog
     #catalog-courses
         justify-content: flex-start !important
@@ -47,8 +43,26 @@ $layout-breakpoint-fullhd: 1500px
         @media (min-width: $layout-breakpoint-widescreen)
             gap: 1.25%
         a.coursebox-container
-            width: 350px
-            margin: 0
+            &[data-tags*="separator"]  
+                padding: 0px !important
+                text-align: left !important
+                width: 100% !important
+                min-height: unset !important
+                background-color: transparent !important
+                box-shadow: none !important
+                pointer-events: none !important
+                border: none !important
+                .coursebox-text
+                    font-size: 2.375em !important
+                    padding: 0px
+                    margin: 60px 0 10px 0
+                .coursebox-text-description,
+                .coursebox-callout,
+                    coursebox-tags
+                        margin: 0px
+                        display: none !important
+                        width: 350px
+                        margin: 0
             transition:all .35s easeOutQuint
             @media (min-width: $layout-breakpoint-desktop)
                 width: 31.333%
@@ -112,25 +126,7 @@ $layout-breakpoint-fullhd: 1500px
         text-align: center
         margin-bottom: .75em
 
-// Set font size for separator titles
-a.coursebox-container[data-tags*="separator"]  
-    padding: 0px !important
-    text-align: left !important
-    width: 100% !important
-    min-height: unset !important
-    background-color: transparent !important
-    box-shadow: none !important
-    pointer-events: none !important
-    border: none !important
-    .coursebox-text
-        font-size: 2.375em !important
-        padding: 0px
-        margin: 60px 0 10px 0
-    .coursebox-text-description,
-    .coursebox-callout,
-    coursebox-tags
-        margin: 0px
-        display: none !important
+
     
 
 a.coursebox-container[data-tags*="separator"] .storefront-price,

@@ -7905,11 +7905,28 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     .sj-page-catalog #catalog-courses {
       gap: 1.25%; } }
   .sj-page-catalog #catalog-courses a.coursebox-container {
-    width: 350px;
-    margin: 0;
     border: none;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(5, 57, 68, 0.1), 0 4px 16px rgba(5, 57, 68, 0.07); }
+    .sj-page-catalog #catalog-courses a.coursebox-container[data-tags*="separator"] {
+      padding: 0px !important;
+      text-align: left !important;
+      width: 100% !important;
+      min-height: unset !important;
+      background-color: transparent !important;
+      box-shadow: none !important;
+      pointer-events: none !important;
+      border: none !important; }
+      .sj-page-catalog #catalog-courses a.coursebox-container[data-tags*="separator"] .coursebox-text {
+        font-size: 2.375em !important;
+        padding: 0px;
+        margin: 60px 0 10px 0; }
+      .sj-page-catalog #catalog-courses a.coursebox-container[data-tags*="separator"] .coursebox-text-description coursebox-tags,
+      .sj-page-catalog #catalog-courses a.coursebox-container[data-tags*="separator"] .coursebox-callout coursebox-tags {
+        margin: 0px;
+        display: none !important;
+        width: 350px;
+        margin: 0; }
     @media (min-width: 926px) {
       .sj-page-catalog #catalog-courses a.coursebox-container {
         width: 31.333%;
@@ -7962,25 +7979,6 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     font-size: 1.625em;
     text-align: center;
     margin-bottom: .75em; }
-
-a.coursebox-container[data-tags*="separator"] {
-  padding: 0px !important;
-  text-align: left !important;
-  width: 100% !important;
-  min-height: unset !important;
-  background-color: transparent !important;
-  box-shadow: none !important;
-  pointer-events: none !important;
-  border: none !important; }
-  a.coursebox-container[data-tags*="separator"] .coursebox-text {
-    font-size: 2.375em !important;
-    padding: 0px;
-    margin: 60px 0 10px 0; }
-  a.coursebox-container[data-tags*="separator"] .coursebox-text-description,
-  a.coursebox-container[data-tags*="separator"] .coursebox-callout,
-  a.coursebox-container[data-tags*="separator"] coursebox-tags {
-    margin: 0px;
-    display: none !important; }
 
 a.coursebox-container[data-tags*="separator"] .storefront-price,
 .search a.coursebox-container[data-tags*="separator"],
