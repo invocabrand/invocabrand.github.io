@@ -7892,50 +7892,54 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   padding: 0 8px; }
 
 .sj-page-catalog #catalog-courses {
-  justify-content: flex-start !important; }
-
-#catalog-courses {
+  justify-content: flex-start !important;
   display: inline-flex;
-  gap: 1.25%;
   margin-left: -0.75rem;
   margin-right: -0.75rem;
-  margin-top: -0.75rem; }
-
-a.coursebox-container {
-  width: 24%;
-  margin: 0% 0% 2% 0%;
-  border: none;
-  border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(5, 57, 68, 0.1), 0 4px 16px rgba(5, 57, 68, 0.07); }
-  a.coursebox-container:hover {
-    box-shadow: 0 4px 8px rgba(5, 57, 68, 0.15), 0 5px 25px rgba(5, 57, 68, 0.1);
+  margin-top: -0.75rem;
+  gap: 30px; }
+  @media (min-width: 1563px) {
+    .sj-page-catalog #catalog-courses {
+      gap: 1.25%; } }
+  .sj-page-catalog #catalog-courses a.coursebox-container {
+    width: 350px;
+    margin: 0;
     border: none;
-    -webkit-transform: translateY(-10px);
-            transform: translateY(-10px); }
-  a.coursebox-container .coursebox-text-description {
-    line-height: 1.5;
-    font-size: 1.125em;
-    padding: 0 24px 30px 26px; }
-  a.coursebox-container .coursebox-text {
-    font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
-    font-size: 1.625em !important;
-    line-height: 1.25; }
-  a.coursebox-container .catalog-page-callout,
-  a.coursebox-container .coursebox-callout {
-    border-top: 1px solid #B3BAC5;
-    color: #1F2121 !important;
-    font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
-    font-weight: normal;
-    text-align: left;
-    font-size: 1.125em; }
-  a.coursebox-container .storefront-price {
-    display: none; }
-  a.coursebox-container.sj-course-series:before, a.coursebox-container.sj-course-series:after, a.coursebox-container.sj-path:before, a.coursebox-container.sj-path:after {
-    background: transparent;
-    border-radius: 0;
-    border: none; }
-  a.coursebox-container.sj-course-series:hover:before, a.coursebox-container.sj-course-series:hover:after, a.coursebox-container.sj-path:hover:before, a.coursebox-container.sj-path:hover:after {
-    box-shadow: none; }
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(5, 57, 68, 0.1), 0 4px 16px rgba(5, 57, 68, 0.07); }
+    @media (min-width: 1563px) {
+      .sj-page-catalog #catalog-courses a.coursebox-container {
+        width: 24%;
+        margin: 0% 0% 2% 0%; } }
+    .sj-page-catalog #catalog-courses a.coursebox-container:hover {
+      box-shadow: 0 4px 8px rgba(5, 57, 68, 0.15), 0 5px 25px rgba(5, 57, 68, 0.1);
+      border: none;
+      -webkit-transform: translateY(-10px);
+              transform: translateY(-10px); }
+    .sj-page-catalog #catalog-courses a.coursebox-container .coursebox-text-description {
+      line-height: 1.5;
+      font-size: 1.125em;
+      padding: 0 24px 30px 26px; }
+    .sj-page-catalog #catalog-courses a.coursebox-container .coursebox-text {
+      font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
+      font-size: 1.625em !important;
+      line-height: 1.25; }
+    .sj-page-catalog #catalog-courses a.coursebox-container .catalog-page-callout,
+    .sj-page-catalog #catalog-courses a.coursebox-container .coursebox-callout {
+      border-top: 1px solid #B3BAC5;
+      color: #1F2121 !important;
+      font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
+      font-weight: normal;
+      text-align: left;
+      font-size: 1.125em; }
+    .sj-page-catalog #catalog-courses a.coursebox-container .storefront-price {
+      display: none; }
+    .sj-page-catalog #catalog-courses a.coursebox-container.sj-course-series:before, .sj-page-catalog #catalog-courses a.coursebox-container.sj-course-series:after, .sj-page-catalog #catalog-courses a.coursebox-container.sj-path:before, .sj-page-catalog #catalog-courses a.coursebox-container.sj-path:after {
+      background: transparent;
+      border-radius: 0;
+      border: none; }
+    .sj-page-catalog #catalog-courses a.coursebox-container.sj-course-series:hover:before, .sj-page-catalog #catalog-courses a.coursebox-container.sj-course-series:hover:after, .sj-page-catalog #catalog-courses a.coursebox-container.sj-path:hover:before, .sj-page-catalog #catalog-courses a.coursebox-container.sj-path:hover:after {
+      box-shadow: none; }
 
 .int-hero-content {
   min-height: 200px;
