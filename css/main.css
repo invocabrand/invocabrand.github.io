@@ -58,7 +58,6 @@
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  -ms-user-select: none;
   user-select: none; }
 
 .navbar-link:not(.is-arrowless)::after, .select:not(.is-multiple):not(.is-loading)::after {
@@ -87,7 +86,6 @@
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  -ms-user-select: none;
   user-select: none;
   -moz-appearance: none;
   -webkit-appearance: none;
@@ -8183,3 +8181,21 @@ textarea {
 
 #header #header-right .catalog-search-input-group .catalog-search-input-button-wrapper {
   display: none; }
+
+.tag-pill {
+  text-align: left;
+  font-size: 13px;
+  font-family: "Avenir-Heavy", "Helvetica", "Arial", sans-serif;
+  color: rgba(31, 33, 33, 0.5);
+  padding: 0 10px 0 0;
+  border-radius: 30px;
+  margin: 0;
+  text-transform: uppercase; }
+
+.tag-pill-wrapper {
+  flex-wrap: wrap;
+  display: flex;
+  padding: 10px 19px 0px; }
+
+.search .tag-pill-wrapper {
+  padding: 0; }
