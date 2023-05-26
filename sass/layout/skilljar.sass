@@ -52,17 +52,14 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
                 box-shadow: none !important
                 pointer-events: none !important
                 border: none !important
+                .storefront-price,
+                .coursebox-image,
+                .coursebox-tags
+                    display: none !important
                 .coursebox-text
                     font-size: 2.375em !important
                     padding: 0px
                     margin: 60px 0 10px 0
-                .coursebox-text-description,
-                .coursebox-callout,
-                    coursebox-tags
-                        margin: 0px
-                        display: none !important
-                        width: 350px
-                        margin: 0
             transition:all .35s easeOutQuint
             @media (min-width: $layout-breakpoint-desktop)
                 width: 31.333%
@@ -126,13 +123,10 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
         text-align: center
         margin-bottom: .75em
 
-
-    
-
-a.coursebox-container[data-tags*="separator"] .storefront-price,
-.search a.coursebox-container[data-tags*="separator"],
-a.coursebox-container[data-tags*="separator"] .coursebox-image
-    display: none !important
+.search
+    a.coursebox-container
+        &[data-tags*="separator"]
+            display: none !important
 
 
 //INTERIOR FILTER NAV
