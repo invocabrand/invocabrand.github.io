@@ -30,6 +30,10 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
     padding: 0 8px
 
 //CATALOG COURSES
+
+$layout-breakpoint-desktop: 926px
+$layout-breakpoint-widescreen: 1213px
+$layout-breakpoint-fullhd: 1500px
 .sj-page-catalog
     #catalog-courses
         justify-content: flex-start !important
@@ -38,15 +42,19 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
         margin-right: -0.75rem
         margin-top: -0.75rem
         gap: 30px
-        @media (min-width: 1563px)
+        @media (min-width: $layout-breakpoint-desktop)
+            gap: 1.25%
+        @media (min-width: $layout-breakpoint-widescreen)
             gap: 1.25%
         a.coursebox-container
             width: 350px
             margin: 0
             transition:all .35s easeOutQuint
-            @media (min-width: 1563px)
-                    width: 24%
-                    margin: 0% 0% 2% 0%
+            @media (min-width: $layout-breakpoint-desktop)
+                width: 31.333%
+                margin: 0
+            @media (min-width: $layout-breakpoint-widescreen)
+                width: 24%  
             border: none
             border-radius: $border-radius
             box-shadow: 0 2px 4px rgba(5, 57, 68, 0.10), 0 4px 16px rgba(5, 57, 68, 0.07)
