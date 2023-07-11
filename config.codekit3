@@ -128,7 +128,7 @@
       "oA" : 0,
       "oAP" : "\/css\/main.css",
       "oF" : 2,
-      "oS" : 0,
+      "oS" : 3,
       "pg" : 0,
       "sct" : 1
     },
@@ -986,6 +986,17 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/sass\/layout\/SkillJar Global Head Snippets.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/sass\/layout\/SkillJar Global Head Snippets-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/sass\/layout\/skilljar.sass" : {
       "aP" : 1,

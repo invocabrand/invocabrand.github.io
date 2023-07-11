@@ -8,37 +8,31 @@ $border-radius: 10px !default
 $card-shadow: 0 2px 4px rgba($shadow-color, 0.10), 0 4px 16px rgba($shadow-color, 0.07) !default
 $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shadow-color-2, 0.1) !default
 
-@media (min-width: $layout-breakpoint-desktop)
-    .no-catalog-filters
-        .catalog-center-width 
+
+.no-catalog-filters
+    .catalog-center-width
+        margin: 0 auto
+        padding: 0 25px
+        width: 100%
+        @media (min-width: $layout-breakpoint-desktop)
             width: 960px
-
-
-@media (min-width: $layout-breakpoint-widescreen)
-    .no-catalog-filters
-        .catalog-center-width 
+        @media (min-width: $layout-breakpoint-widescreen)
             width: 1152px
-
-
-@media (min-width: $layout-breakpoint-fullhd)
-    .no-catalog-filters
-        .catalog-center-width 
+        @media (min-width: $layout-breakpoint-fullhd)
             width: 1344px
 
-.catalog-center-width 
-    margin: 0 auto
-    padding: 0 8px
-
 //CATALOG COURSES
-.sj-page-catalog
+.sj-page-catalog,
+.sj-page-detail
     #catalog-courses
         justify-content: flex-start !important
         display: inline-flex
-        margin-left: -0.75rem
-        margin-right: -0.75rem
-        margin-top: -0.75rem
-        gap: 30px
+        @media (min-width: 801px)
+            gap: 2%
         @media (min-width: $layout-breakpoint-desktop)
+            margin-left: 0rem
+            margin-right: 0rem
+            margin-top: 0rem
             gap: 1.25%
         @media (min-width: $layout-breakpoint-widescreen)
             gap: 1.25%
@@ -54,6 +48,8 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
                 border: none !important
                 .storefront-price,
                 .coursebox-image,
+                .coursebox-text-description,
+                .coursebox-callout,
                 .coursebox-tags
                     display: none !important
                 .coursebox-text
@@ -61,10 +57,14 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
                     padding: 0px
                     margin: 60px 0 10px 0
             transition:all .35s easeOutQuint
+            width: 100%
+            margin-bottom: 20px
+            @media (min-width: 801px)
+                width: 49%
+                margin: 0 0 20px 0
             @media (min-width: $layout-breakpoint-desktop)
                 width: 31.333%
-                margin: 0
-            @media (min-width: $layout-breakpoint-widescreen)
+            @media (min-width: $layout-breakpoint-fullhd)
                 width: 24%  
             border: none
             border-radius: $border-radius
@@ -73,14 +73,27 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
                 box-shadow: 0 4px 8px rgba(5, 57, 68, 0.15), 0 5px 25px rgba(5, 57, 68, 0.1)
                 border: none
                 transform: translateY(-10px)
+            .tag-pill-wrapper
+                flex-wrap: wrap
+                display: flex
+                padding: 10px 19px 0px
+                .tag-pill 
+                    text-align: left
+                    font-size: 13px
+                    font-family: $strong-sans-serif
+                    color: rgba($charcoal, .50)
+                    padding: 0 10px 0 0
+                    border-radius: 30px
+                    margin: 0
+                    text-transform: uppercase 
+            .coursebox-text
+                font-family: $strong-sans-serif
+                font-size: 1.625em !important
+                line-height: 1.25  
             .coursebox-text-description
                 line-height: 1.5
                 font-size: 1.125em
                 padding: 0 24px 30px 26px
-            .coursebox-text
-                font-family: $strong-sans-serif
-                font-size: 1.625em !important
-                line-height: 1.25
             .catalog-page-callout, 
             .coursebox-callout
                 border-top: 1px solid #B3BAC5
@@ -106,6 +119,10 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
                         box-shadow: none
     
 
+.sj-page-detail
+    .columns
+        flex-direction: column
+
 // INTERIOR HERO PAGE CONTENT
 .int-hero-content
     min-height: 200px
@@ -130,7 +147,22 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
 
 
 //INTERIOR FILTER NAV
-#main-container 
+#main-container
+    &.catalog-filters
+        .int-hero-content
+            @media (min-width: 1850px)
+                width: 1344px
+        #catalog-courses
+            gap: 0%
+            @media (min-width: $layout-breakpoint-desktop)
+                gap: 2%
+
+            a.coursebox-container
+                @media (min-width: 801px)
+                    width: 350px
+                    margin: 0 0 20px 0
+                @media (min-width: 1563px)
+                    width: 31.333% 
     nav#catalog-left-nav
         background-color: $neutral !important
         input[type='checkbox']
@@ -185,7 +217,7 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
                 .filter-name
                     margin: 0 0 0 12px
                     color: $charcoal
-                    top: 2px
+                    top: 0px
                     font-size: 1.125em
 
                 .filter-counter
@@ -194,12 +226,13 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
                     display: inline-block
                     margin-left: 5px
 
+
 //LEFT FILTER NAV SEARCH
 .catalog-search-input-group
     &:after
         content: none
     position: relative
-    display: table
+    display: flex
     border-collapse: separate
     margin-bottom: 25px;
     .catalog-search-input
@@ -209,10 +242,10 @@ $card-shadow-hover: 0 4px 8px rgba($shadow-color-2, 0.15), 0 5px 25px rgba($shad
         margin-bottom: 0
         width: 100%
         z-index: 0
-        border-radius: 3px 0 0 3px
+        border-radius: 4px
         box-shadow: inset 0 1px 2px rgba(0,0,0,.1) !important
     .catalog-search-input-button-wrapper
-        display: table-cell
+        display: none
         position: relative
         font-size: 0
         vertical-align: middle
@@ -338,25 +371,368 @@ textarea
                 border-radius: 3px
             .catalog-search-input-button-wrapper
                 display: none
-        
-//TILE LABELS
 
-.tag-pill-wrapper
-    .tag-pill 
-        text-align: left
-        font-size: 13px
-        font-family: $strong-sans-serif
-        color: rgba($charcoal, .50)
-        padding: 0 10px 0 0
-        border-radius: 30px
-        margin: 0
-        text-transform: uppercase
-    flex-wrap: wrap
-    display: flex
-    padding: 10px 19px 0px
-
-.search 
-    .tag-pill-wrapper
+//COURSE PAGE
+//.sj-page-detail-course
+#skilljar-content
+    max-width: 1344px
+    margin: 0 auto
+    #messages
         padding: 0
+        width: 100%
+        margin: 0 0 30px 0
+    #cp-content 
+        padding-top: 11px
+        .section-container
+            &.tabs
+                p.title
+                    &:hover
+                        background-color: transparent
+                        >a
+                            color: $primary
+        .content
+            padding-top: 30px
+            ul
+                display: block
+                border: none
+            p
+                white-space: pre-wrap
+            h2
+                display: flex
+            #showAll
+                border: none
+        #curriculum-list 
+            a.focus-link-v2
+                color: $primary
+            .lesson-row
+                width: 100%
+                display: inline-flex
+                align-items: center
+                &:hover
+                    background-color: transparent
+                .bullet,
+                .type-icon
+                    top: auto
+                    left: auto
+                    right: auto
+                    position: relative
+                    margin: 0 15px 0 0
+                    height: 30px
+                .title
+                    font-size: 1.125rem
+                    margin: 0
+                    top: auto
+                    left: auto
+                    right: auto
+                    position: relative
+                    height: auto
+    h1
+        font-size: 2.375em
+        line-height: 1.25
+    .cp-summary-row-v2
+        padding-top: 40px
+        .cp-promo-image
+            border-radius: $border-radius
+            overflow: hidden
+        .dp-summary-wrapper, 
+        .cp-summary-wrapper
+            align-items: center
+            border: none
+    #dp-details, #dp-details-bundle
+        padding: 50px 0
+        .columns
+            margin: 0
+        .dp-long-description
+            p
+                margin-bottom: 20px
+        h3
+            margin-bottom: 25px
+        .padded-side-bottom
+            display: flex !important
+            .large-7
+                &.columns
+                    order: 2
+                    padding-left: 0
+                    padding-right: 0
+                    flex-direction: column
+            .sj-curriculum-wrapper
+                order: 1
+                padding: 0
+                max-width: 410px
+                margin-right: 100px
+                flex-direction: column
+                ul.dp-curriculum
+                    background: $neutral
+                    border-radius: 20px
+                    padding: 10px 36px
+                    &>li
+                        display: flex
+                        align-items: center
+                        padding: 0
+                        margin-bottom: 16px
+                        .lesson-wrapper
+                            line-height: 1.35
+                            padding-left: 0
+                            .sj-lesson-time
+                                margin-left: 0
+                    li.section
+                        padding: 0
+                        font-size: 1em
+                        font-weight: normal
+                        font-family: $strong-sans-serif
+                        color: $charcoal
+                        border-bottom: 1px solid $black
+                        margin: 25px 0 15px 0
+                    .bullet,
+                    .type-icon
+                        top: auto
+                        left: auto
+                        right: auto
+                        position: relative
+                        margin: 0 15px 0 0
+                        height: 30px
+                        i
+                            position: relative
+                            top: auto
+                            left: auto
+
+                              
+    #quantity-section
+        .large-centered
+            margin: 0 auto
+        .columns
+            flex-direction: column
+            margin: 0
+            h2
+                margin-bottom: 30px
 
 
+    .top-row-white-v2
+        padding-top: 40px
+        max-width: auto
+        h2
+            font-family: $family-sans-serif
+            font-size: 1.125em
+        .dp-row-flex-v2
+            align-items: center
+            .dp-promo-image-wrapper
+                .dp-promo-image
+                    border-radius: 20px
+                    overflow: hidden
+            .columns
+                margin: 0
+                flex-direction: column
+                &.dp-summary-wrapper
+                    border: none
+                .row 
+                    .row
+                        margin: 0
+
+.button
+    border-color: $primary
+    color: $primary
+    border-radius: 50px
+    font-size: 1.125em
+    padding-bottom: calc(1.5em - 1px)
+    padding-left: 1.5em
+    padding-right: 1.5em
+    padding-top: calc(1.5em - 1px)
+    &:hover
+        border-color: $primary
+        color: $white
+        background-color: #02a67e;
+
+a.coursebox-container 
+    .sj-ribbon-wrapper 
+        .sj-ribbon
+            border-color: #016454
+            color: $white
+            background: $primary
+            border-width: 2px
+.type-icon,
+.bullet
+    width: 30px; 
+    i
+        position: relative
+        top: auto
+        left: auto
+        width: auto
+        &:before
+            content: ''
+            background-repeat: no-repeat
+            width: 30px
+            height: 30px
+            position: relative
+            display: block
+        &.icon-text
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1685479210%2Fdoc_icon.1685479209831.svg')
+        &.icon-video
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1685479228%2Fvideo_icon.1685479227486.svg')
+        &.fa-check-square-o
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686249581%2Fthumbs-up_icon.1686249580890.svg')
+        &.icon-slideshow
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686249567%2Fslideshow_icon.1686249566719.svg')
+        &.fa-calendar
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686249552%2Fcalendar_icon.1686249552233.svg')
+        &.fa-check-circle
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686585298%2Fchecked_icon.1686585298397.svg')
+        &.fa-circle-o.unviewed
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686585336%2Funchecked_icon.1686585336071.svg')
+        &.icon-dotted-circle
+            &:before
+                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686670716%2Fdotted_icon.1686670716261.svg')            
+                
+
+// LESSONS
+.sj-page-lesson
+    .lp-left-nav
+        .lesson-row 
+            .type-icon
+                width: 30px
+    #lp-left-nav
+        h1.course-title
+            margin-bottom: 30px
+            .sj-course-time
+                display: block
+                margin: 0
+        h3.section-title
+            margin-top: 30px
+        .lesson
+            color: $charcoal
+            &:hover
+                background: $neutral
+            .lesson-active,
+            .current-item
+                background: $neutral
+                color: $charcoal
+            .title
+                font-size: 1rem
+
+    #lp-wrapper
+        #lesson-body
+            &.details-pane-bottom
+                padding-bottom: 50px
+        .columns
+            flex-direction: column
+            margin: 0
+
+.sj-page-login,
+.sj-page-signup
+    .columns
+        margin: 0
+        flex-direction: column
+    form
+        margin: 1em 0
+        .row
+            .columns
+                &:last-child
+                    flex-direction: row
+                    align-items: center
+        .forgot-password
+            margin: 0
+
+.sj-page-signup
+    form
+        .row
+            .columns
+                &:last-child
+                    display: block
+
+#skilljar-content
+    padding-left: 3%
+    padding-right: 3%
+    .top-row-white-v2
+        padding-left: 0
+        padding-right: 0
+    .sj-courseboxes-v2
+        .catalog-center-width
+            .catalog-header
+                padding: 50px 0 20px 0
+                >h1
+                    text-align: center
+        .path-curriculum-resume-wrapper
+            padding-bottom: 50px;
+            .path-curriculum-progress-bar-wrapper
+                .progress
+                    border: 1px solid $primary
+
+.search
+    #catalog-content
+        max-width: none !important
+        a.coursebox-container
+            padding: 0 0 64px 0
+            &.lesson 
+                .coursebox-image
+                    display: flex
+                    height: 13.75rem
+                    align-items: center
+                    justify-content: center
+                    margin: 0 0 20px 0
+                    width: 100%
+                    background-color: $stone
+                    @media (min-width: 926px)
+                        height: 9.75rem
+                    @media (min-width: 1213px)
+                        height: 11.75rem
+                    @media (min-width: 1500px)
+                        height: 10.65rem
+                    i
+                        position: relative
+                        top: auto
+                        left: auto
+                        width: auto
+                        border-color: $charcoal
+                        &:before
+                            content: ''
+                            background-repeat: no-repeat
+                            width: 69px
+                            height: 69px
+                            position: relative
+                            display: block
+                        &.icon-video
+                            &:before
+                                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1685479228%2Fvideo_icon.1685479227486.svg')
+                                background-size: 42px
+                                background-position: 10px 10px
+                        &.icon-text
+                            &:before
+                                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1685479210%2Fdoc_icon.1685479209831.svg')
+                                background-size: 42px
+                                background-position: 10px 10px
+                        &.icon-slideshow
+                            &:before
+                                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686249567%2Fslideshow_icon.1686249566719.svg')
+                                background-size: 42px
+                                background-position: 10px 10px                                    
+                        &.fa-calendar
+                            &:before
+                                background-image: url('https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F9m3v56cjjesradrnts1l4eodo%2Fpublic%2F1686249552%2Fcalendar_icon.1686249552233.svg')
+                                background-size: 42px
+                                background-position: 10px 10px                                    
+                .coursebox-text-description
+                    margin: 10px 0 0px
+            .coursebox-image
+                height: auto
+                margin: 0
+                max-height: none
+                width: auto
+                img 
+                    max-height: none
+            .coursebox-text
+                overflow-wrap: break-word
+                margin: 16px 0 0
+                padding: 0 24px
+            .coursebox-callout
+                left: 24px
+                right: 24px
+                padding-top: 12px
+                position: absolute
+                margin: 0
+                bottom: 1em
